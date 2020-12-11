@@ -8,7 +8,7 @@
 // if we don't return after a change make sure we don't change to a monster
 // that then gets changed further down the function again
 
-// ** This isn't used currently as it seems to cause issues when a map reloads from a 
+// ** This (ModifySpawnMonster) isn't used currently as it seems to cause issues when a map reloads from a 
 // save game or gamemap command such as entites changing origin unexpectedly and incorrect
 // sounds being played for an action **
 
